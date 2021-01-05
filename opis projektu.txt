@@ -1,0 +1,1 @@
+Projekt przedstawia scyfryzowaną dokumentację informacyjną przykładowego banku wchodzącego na rynek zawierającą informacje o klientach, ich kontach oraz kartach debetowych, oraz rozstaw pracowników tegoż banku po poszczególnych oddziałach.
